@@ -37,6 +37,6 @@ python-dotenv
 selenium
 webdriver-manager
 requests
-google-generativeai
+google-genai
 Pillow==10.4.0
 pynput
