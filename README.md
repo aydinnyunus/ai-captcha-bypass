@@ -4,6 +4,9 @@ This project is a Python-based command-line tool that uses large multimodal mode
 
 A successful solve is recorded as a GIF in the `successful_solves` directory.
 
+*Detailed Blog Post*: https://aydinnyunus.github.io/2025/12/08/ai-captcha-bypass/
+
+
 ## Key Features
 
 - **Multiple AI Providers**: Supports both OpenAI (e.g., GPT-4o) and Google Gemini (e.g., Gemini 2.5 Pro) models.
